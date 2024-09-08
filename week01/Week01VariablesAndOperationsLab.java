@@ -12,23 +12,28 @@ public class Week01VariablesAndOperationsLab {
 
 		// 1. Create a variable to hold the quantity of 
 		//		available plane seats left on a flight		
-
+int availablePlaneSeats = 6;
 		
 		// 2. Create a variable to hold the cost of groceries at checkout
-
+double costOfGroceries = 23.69;
 		
 		// 3. Create a variable to hold a person's middle initial
-
+char middleInitial = 'j';
 	
 		// 4. Create a variable to hold true if it's hot outside 
 		//		and false if it's cold outside
-
+boolean isHotOutside = false;
 		
 		// 5. Create a variable to hold a customer's first name
-
+string streetAddress = "1234 W Easy St"; 
 		
 		// 6. Create a variable to hold a street address
-		
+		System.out.println(availablePlaneSeats);
+		System.out.println(costOfGroceries);
+		System.out.println(middleInitial);
+		System.out.println(isHotOutside);
+		System.out.println(streetAddress);
+			
 
 		// 7. Print all variables to the console
 	
